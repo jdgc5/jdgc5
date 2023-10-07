@@ -15,6 +15,8 @@ I'm passionate about web development and constantly learning and looking for new
 
 <a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer</b> </a> - This application allows you to play and manage your music library in a simple and customized way. With an intuitive and appealing interface, Music Player offers features such as song search, playlist creation, loop playback, and much more.
 
+<a href="https://github.com/jdgc5/Mockups-and-Webpages"> <b>Mockups and Webpages</b> </a> - This repository contains a storage of my mock-ups and their respective webpages.
+
 <b>Bookmarker Online Shop</b> - It's a small online shop that specializes in selling bookmarks, prints, planners, and other items related to digital printing. This project has been coded in HTML, CSS, JavaScript, and PHP. Additionally, it will utilize payment platforms such as Stripe and PayPal. Please note that this is currently a private project until its release.
 <h2>Tools and Technology</h2>
 
