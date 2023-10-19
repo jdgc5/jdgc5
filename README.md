@@ -17,7 +17,7 @@ I'm passionate about web development and constantly learning and looking for new
 
 <a href="https://github.com/jdgc5/Mockups-and-Webpages"> <b>Mockups and Webpages</b> </a> - This repository contains a storage of my mock-ups and their respective webpages.
 
-<a href="https://github.com/jdgc5/RiskJS"><b>Risk JS</b> - This project is an implementation of the classic board game "Risk." It will allow players to engage in strategic warfare, control continents, deploy armies, and conquer territories. The game starts as a turn-based game with dice rolling mechanics, but the long-term vision is to evolve it into an asynchronous multiplayer experience.
+<a href="https://github.com/jdgc5/RiskJS"><b>Risk JS</b></a> - This project is an implementation of the classic board game "Risk." It will allow players to engage in strategic warfare, control continents, deploy armies, and conquer territories. The game starts as a turn-based game with dice rolling mechanics, but the long-term vision is to evolve it into an asynchronous multiplayer experience.
 <h2>Tools and Technology</h2>
 
 <div style="display: flex; justify-content: space-around;">
