@@ -17,7 +17,7 @@ I'm passionate about web development and constantly learning and looking for new
 
 <a href="https://github.com/jdgc5/Mockups-and-Webpages"> <b>Mockups and Webpages</b> </a> - This repository contains a storage of my mock-ups and their respective webpages.
 
-<b>Bookmarker Online Shop</b> - It's a small online shop that specializes in selling bookmarks, prints, planners, and other items related to digital printing. This project has been coded in HTML, CSS, JavaScript, and PHP. Additionally, it will utilize payment platforms such as Stripe and PayPal. Please note that this is currently a private project until its release.
+<a href="https://github.com/jdgc5/RiskJS"><b>Risk JS</b> - This project is an implementation of the classic board game "Risk." It will allow players to engage in strategic warfare, control continents, deploy armies, and conquer territories. The game starts as a turn-based game with dice rolling mechanics, but the long-term vision is to evolve it into an asynchronous multiplayer experience.
 <h2>Tools and Technology</h2>
 
 <div style="display: flex; justify-content: space-around;">
