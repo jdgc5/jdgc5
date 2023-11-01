@@ -1,10 +1,10 @@
-<h1>About Me</h1>
+<h1>👨‍🦲 About Me</h1>
 
 Hi there! I'm a student of Higher Technician in Web Application Development (2nd year) from Granada. <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>)<br> 
 I am a very positive, hardworking person with great adaptability and the ability for self-learning. 
 I'm passionate about web development and constantly learning and looking for new ways to improve my skills in this field
 
-<h2>Projects</h2>
+<h2>💿 Projects</h2>
 
 <h4>Here you will find a variety of projects I have been working on, including:</h4>
 <ul>
@@ -49,4 +49,10 @@ I'm passionate about web development and constantly learning and looking for new
   </a>
 <br>
   <br>
+</div>
+
+## ✉️ &nbsp;My Contacts
+<div>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/_ar1elgr/)(https://www.linkedin.com/in/j-david-garcia-corzo/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rivasguerreroariel@gmail.com)](mailto:dgc105@gmail.com)&nbsp;
 </div>
