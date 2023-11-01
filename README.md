@@ -51,9 +51,9 @@ I'm passionate about web development and constantly learning and looking for new
   <br>
 </div>
 
-<div>
 ## ✉️ &nbsp;Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/_ar1elgr/)](https://www.linkedin.com/in/j-david-garcia-corzo/)&nbsp;
+<div>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-david-garcia-corzo/)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dgc105@gmail.com)](mailto:dgc105@gmail.com)&nbsp;
 </div>
