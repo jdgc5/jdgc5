@@ -37,3 +37,16 @@ I'm passionate about web development and constantly learning and looking for new
 
 <h3>Frameworks I've used in some project:</h3>
 <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="30" style="margin-right: 50px;"  alt="Workbench" title="https://getbootstrap.com/"></a> &nbsp; &nbsp;
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/jdgc5">
+    <img width=450 height=170 align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api?username=jdgc5&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="[https://github.com/jdgc5](https://github.com/jdgc5)">
+    <img align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdgc5&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+<br>
+  <br>
+</div>
