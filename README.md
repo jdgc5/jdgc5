@@ -37,6 +37,11 @@ I'm passionate about web development and constantly learning and looking for new
 <a href="https://www.jetbrains.com/es-es/idea/"><img src="https://user-images.githubusercontent.com/108841509/227059016-6110a03b-3de0-4f12-b17a-289ca4da8536.png" width="30" style="margin-right: 30px;"  alt="IntelliJ" title="https://www.jetbrains.com/es-es/idea/"></a> &nbsp; &nbsp;
 <a href="https://netbeans.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="30" style="margin-right: 30px;"  alt="NetBeans" title="https://netbeans.apache.org/"></a> &nbsp; &nbsp;
 <a href="https://www.mysql.com/products/workbench/"><img src="https://user-images.githubusercontent.com/108841509/227059624-7a9591f1-4e2c-48fe-bd4d-56041b1e1dd9.png" width="50" style="margin-right: 70px;"  alt="Workbench" title="https://www.mysql.com/products/workbench/"></a> &nbsp; &nbsp;
+<a href="https://ubuntu.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ubuntu_logo.svg/64px-Ubuntu_logo.svg.png" width="30" style="margin-right: 30px;" alt="Ubuntu" title="Ubuntu"></a> &nbsp; &nbsp;
+<a href="https://aws.amazon.com/cloud9/"><img src="https://user-images.githubusercontent.com/108841509/56768171-2e48f280-67c1-11e9-91c6-1a22d88d8d30.png" width="30" style="margin-right: 30px;" alt="Cloud9" title="Cloud9"></a> &nbsp; &nbsp;
+<a href="https://www.vagrantup.com/"><img src="https://www.vagrantup.com/img/logo-hashicorp.svg" width="30" style="margin-right: 30px;" alt="Vagrant" title="Vagrant"></a> &nbsp; &nbsp;
+<a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="30" alt="Docker" title="Docker"></a> &nbsp; &nbsp;
+
 
 <h3>Frameworks I've used in some project:</h3>
 <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="30" style="margin-right: 50px;"  alt="Bootstrap" title="Bootstrap"></a> &nbsp; &nbsp;
