@@ -17,7 +17,7 @@ I'm passionate about web development and constantly learning and looking for new
 
 <a href="https://github.com/jdgc5/Mockups-and-Webpages"> <b>Mockups and Webpages</b> </a> - This repository contains a storage of my mock-ups and their respective webpages.
 
-<a href="https://github.com/jdgc5/RiskJS"><b>Risk JS</b></a> - This project is an implementation of the classic board game "Risk." It will allow players to engage in strategic warfare, control continents, deploy armies, and conquer territories. The game starts as a turn-based game with dice rolling mechanics, but the long-term vision is to evolve it into an asynchronous multiplayer experience.
+<a href="https://github.com/jdgc5/QuizzGame"><b>Quizz Game</b></a> - This project is a web app quiz game created using Laravel, JS, HTML5, and Bootstrap. It allows you to create your own database with questions and answers. Additionally, you can track your gaming history by logging in with a user account.
 
 <a href="https://github.com/jdgc5/MagicalProxyDatabase"><b>Magical Proxy Database</b></a> - This project is a web application for managing collectible database cards made by Laravel, HTML5 and bootstrap. It allows creating, viewing, editing, and deleting cards, as well as managing their associated image. They are shared in different views and stored in a SQL database.
 
@@ -39,7 +39,9 @@ I'm passionate about web development and constantly learning and looking for new
 <a href="https://www.mysql.com/products/workbench/"><img src="https://user-images.githubusercontent.com/108841509/227059624-7a9591f1-4e2c-48fe-bd4d-56041b1e1dd9.png" width="50" style="margin-right: 70px;"  alt="Workbench" title="https://www.mysql.com/products/workbench/"></a> &nbsp; &nbsp;
 
 <h3>Frameworks I've used in some project:</h3>
-<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="30" style="margin-right: 50px;"  alt="Workbench" title="https://getbootstrap.com/"></a> &nbsp; &nbsp;
+<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="30" style="margin-right: 50px;"  alt="Bootstrap" title="Bootstrap"></a> &nbsp; &nbsp;
+<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="30" style="margin-right: 50px;"  alt="Laravel" title="Laravel"></a> &nbsp; &nbsp;
+<a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="30" alt="React" title="React"></a> &nbsp; &nbsp;
 
 <div>
 
