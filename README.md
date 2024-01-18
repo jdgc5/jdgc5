@@ -40,10 +40,10 @@ I'm passionate about web development and constantly learning and looking for new
 <a href="https://ubuntu.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ubuntu_logo.svg/64px-Ubuntu_logo.svg.png" width="30" style="margin-right: 30px;" alt="Ubuntu" title="Ubuntu"></a> &nbsp; &nbsp;
 <a href="https://aws.amazon.com/cloud9/"><img src="https://user-images.githubusercontent.com/108841509/56768171-2e48f280-67c1-11e9-91c6-1a22d88d8d30.png" width="30" style="margin-right: 30px;" alt="Cloud9" title="Cloud9"></a> &nbsp; &nbsp;
 <a href="https://www.vagrantup.com/"><img src="https://www.vagrantup.com/img/logo-hashicorp.svg" width="30" style="margin-right: 30px;" alt="Vagrant" title="Vagrant"></a> &nbsp; &nbsp;
-<a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="30" alt="Docker" title="Docker"></a> &nbsp; &nbsp;
+<a href="https://www.docker.com/"><img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" width="30" alt="Docker" title="Docker"></a> &nbsp; &nbsp;
 
 
-<h3>Frameworks I've used in some project:</h3>
+<h3>Frameworks I've used in some projects:</h3>
 <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="30" style="margin-right: 50px;"  alt="Bootstrap" title="Bootstrap"></a> &nbsp; &nbsp;
 <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="30" style="margin-right: 50px;"  alt="Laravel" title="Laravel"></a> &nbsp; &nbsp;
 <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="30" alt="React" title="React"></a> &nbsp; &nbsp;
