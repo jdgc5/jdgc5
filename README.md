@@ -23,7 +23,13 @@ I'm passionate about web development and constantly learning and looking for new
 
 <h2>🛠️ Tools and Technology</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,wordpress,c#,sql)](.)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,wordpress,c#,sql)](.)
+  </a>
+</p>
 
 </div>
 
@@ -39,9 +45,11 @@ I'm passionate about web development and constantly learning and looking for new
 
 
 <h3>Frameworks I've used in some projects:</h3>
-<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="30" style="margin-right: 50px;"  alt="Bootstrap" title="Bootstrap"></a> &nbsp; &nbsp;
-<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="30" style="margin-right: 50px;"  alt="Laravel" title="Laravel"></a> &nbsp; &nbsp;
-<a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="30" alt="React" title="React"></a> &nbsp; &nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,bootstrap,angular,laravel,electron,dotnet,nodejs,unity" />
+  </a>
+</p>
 
 <div>
 
