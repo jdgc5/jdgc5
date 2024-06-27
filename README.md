@@ -23,16 +23,7 @@ I'm passionate about web development and constantly learning and looking for new
 
 <h2>🛠️ Tools and Technology</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,wordpress,c#)](.)
-<div style="display: flex; justify-content: space-around;">
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="40" alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/html/default.asp"></a> &nbsp; &nbsp;
-<a href="https://www.w3schools.com/css"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/css/"></a> &nbsp; &nbsp;
-<a href="https://www.w3schools.com/js/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/js/default.asp"></a> &nbsp;&nbsp;
-<a href="https://www.w3schools.com/java/default.asp"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/java/default.asp"></a> &nbsp; &nbsp;
-<a href="https://www.w3schools.com/java/default.asp"><img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="80" style="margin-right: 80px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/java/default.asp"></a> &nbsp; &nbsp;
-<a href="https://www.w3schools.com/mysql/default.asp"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="50" style="margin-right: 50px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/mysql/default.asp"></a> &nbsp;
-<a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="50" style="margin-right: 30px;" alt="PHP Logo" title="https://www.php.net/"></a> &nbsp;
-<a href="https://wordpress.org/"><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="50" style="margin-top: 15px; margin-right: 30px;" alt="WordPress Logo" title="https://wordpress.org/"></a> &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,wordpress,c#,mysql)](.)
 
 </div>
 
