@@ -23,14 +23,14 @@ I'm passionate about web development and constantly learning and looking for new
 
 <h2>🛠️ Tools and Technology</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,wordpress,c#,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c#,sql" />
   </a>
 
 </div>
 
 <h3>Applications:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,postman,git,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,postman,git,gitlab,github,wordpress" />
   </a>
 
 <h3>Frameworks I've used in some projects:</h3>
