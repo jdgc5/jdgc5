@@ -23,7 +23,7 @@ I'm passionate about web development and constantly learning and looking for new
 
 <h2>🛠️ Tools and Technology</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,wordpress,c#,mysql)](.)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,wordpress,c#,sql)](.)
 
 </div>
 
