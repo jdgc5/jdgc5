@@ -22,21 +22,15 @@ I'm passionate about web development and constantly learning and looking for new
 <a href="https://github.com/jdgc5/MagicalProxyDatabase"><b>Magical Proxy Database</b></a> - This project is a web application for managing collectible database cards made by Laravel, HTML5 and bootstrap. It allows creating, viewing, editing, and deleting cards, as well as managing their associated image. They are shared in different views and stored in a SQL database.
 
 <h2>🛠️ Tools and Technology</h2>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c#,sql" />
-  </a>
 
 </div>
 
 <h3>Applications:</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,postman,git,gitlab,github,wordpress" />
-  </a>
 
 <h3>Frameworks I've used in some projects:</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,bootstrap,angular,laravel,electron,dotnet,nodejs,unity" />
-  </a>
 
 <div>
 
