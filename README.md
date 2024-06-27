@@ -29,15 +29,9 @@ I'm passionate about web development and constantly learning and looking for new
 </div>
 
 <h3>Software:</h3>
-<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30" style="margin-right: 30px;"  alt="Visual Studio Code" title="https://code.visualstudio.com/"></a> &nbsp; &nbsp;
-<a href="https://www.jetbrains.com/es-es/idea/"><img src="https://user-images.githubusercontent.com/108841509/227059016-6110a03b-3de0-4f12-b17a-289ca4da8536.png" width="30" style="margin-right: 30px;"  alt="IntelliJ" title="https://www.jetbrains.com/es-es/idea/"></a> &nbsp; &nbsp;
-<a href="https://netbeans.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="30" style="margin-right: 30px;"  alt="NetBeans" title="https://netbeans.apache.org/"></a> &nbsp; &nbsp;
-<a href="https://www.mysql.com/products/workbench/"><img src="https://user-images.githubusercontent.com/108841509/227059624-7a9591f1-4e2c-48fe-bd4d-56041b1e1dd9.png" width="50" style="margin-right: 70px;"  alt="Workbench" title="https://www.mysql.com/products/workbench/"></a> &nbsp; &nbsp;
-<a href="https://ubuntu.com/"><img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31472-todo-ubuntu-que-es-que-podemos-esperar-este.jpg" width="70" style="margin-right:   0px;" alt="Ubuntu" title="Ubuntu"></a> &nbsp; &nbsp;
-<a href="https://aws.amazon.com/cloud9/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Cloud9_Logo.jpg" width="40" style="margin-right: 0px;" alt="Cloud9" title="Cloud9"></a> &nbsp; &nbsp;
-<a href="https://www.vagrantup.com/"><img src="https://blog.ichasco.com/wp-content/uploads/2017/03/vagrant-logo.png" width="90" style="margin-right:   0px;" alt="Vagrant" title="Vagrant"></a> &nbsp; &nbsp;
-<a href="https://www.docker.com/"><img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" width="80" alt="Docker" title="Docker"></a> &nbsp; &nbsp;
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,postman,git,gitlab,github" />
+  </a>
 
 <h3>Frameworks I've used in some projects:</h3>
   <a href="https://skillicons.dev">
