@@ -28,7 +28,7 @@ I'm passionate about web development and constantly learning and looking for new
 
 </div>
 
-<h3>Software:</h3>
+<h3>Applications:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,postman,git,gitlab,github" />
   </a>
