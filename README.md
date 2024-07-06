@@ -13,13 +13,14 @@ I'm passionate about web development and constantly learning and looking for new
 <li>Courses I have participated in to expand my knowledge</li>
 </ul>
 
+<a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - Kingdom Battle is an exciting game developed with Phaser 3, taking players on an epic adventure in a kingdom full of battles and challenges. It represented the final project of the studies. Also, you can find more info in <a href="https://www.kingdombattle.es"> <b>Kingdom Battle</b> </a>
+
 <a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer</b> </a> - This application allows you to play and manage your music library in a simple and customized way. With an intuitive and appealing interface, Music Player offers features such as song search, playlist creation, loop playback, and much more.
 
 <a href="https://github.com/jdgc5/Mockups-and-Webpages"> <b>Mockups and Webpages</b> </a> - This repository contains a storage of my mock-ups and their respective webpages.
 
-<a href="https://github.com/jdgc5/QuizzGame"><b>Quizz Game</b></a> - This project is a web app quiz game created using Laravel, JS, HTML5, and Bootstrap. It allows you to create your own database with questions and answers. Additionally, you can track your gaming history by logging in with a user account.
+<a href="https://github.com/jdgc5/Tienda-Laravel"><b>E-commerce Example Shop</b></a> - This is a simple e-commerce application built with Laravel. The back-end includes user authentication, a CRUD interface for managing products, and a front-end that displays the products using a random template customized to fit the e-commerce needs.
 
-<a href="https://github.com/jdgc5/MagicalProxyDatabase"><b>Magical Proxy Database</b></a> - This project is a web application for managing collectible database cards made by Laravel, HTML5 and bootstrap. It allows creating, viewing, editing, and deleting cards, as well as managing their associated image. They are shared in different views and stored in a SQL database.
 
 <h2>🛠️ Tools and Technology</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c#,sql" />
