@@ -13,7 +13,7 @@ I'm passionate about web development and constantly learning and looking for new
 <li>Courses I have participated in to expand my knowledge</li>
 </ul>
 
-<a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - Kingdom Battle is an exciting game developed with Phaser 3, taking players on an epic adventure in a kingdom full of battles and challenges. It represented the final project of the studies. Also, you can find more info in <a href="https://www.kingdombattle.es"> <b>Kingdom Battle</b> </a>
+<a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - Kingdom Battle is an exciting game developed with Phaser 3, taking players on an epic adventure in a kingdom full of battles and challenges. It represented the final project of the studies. 
 
 <a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer</b> </a> - This application allows you to play and manage your music library in a simple and customized way. With an intuitive and appealing interface, Music Player offers features such as song search, playlist creation, loop playback, and much more.
 
