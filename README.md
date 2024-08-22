@@ -1,6 +1,6 @@
 <h1>👨‍🦲 About Me</h1>
 
-Hi there! I'm a Higher Technician in Web Application Development from Granada. <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>)<br> 
+Hi there! I'm a Higher Technician in Web Application Development from Granada. 
 I am a very positive, hardworking person with great adaptability and the ability for self-learning. 
 I'm passionate about web development and constantly learning and looking for new ways to improve my skills in this field
 
