@@ -1,6 +1,6 @@
 <h1>👨‍🦲 About Me</h1>
 
-Hi there! I'm a Higher Technician in Web Application Development from Granada. 
+Hi there! I'm a Higher Technician in Web Application Development from Granada. <br>
 I am a very positive, hardworking person with great adaptability and the ability for self-learning. 
 I'm passionate about web development and constantly learning and looking for new ways to improve my skills in this field
 
