@@ -1,49 +1,22 @@
-<h1>👨‍🦲 About Me</h1>
+<h1>👨‍💻 About Me</h1>
 
-Hi there! I'm a Higher Technician in Web Application Development from Granada. <br>
-I am a very positive, hardworking person with great adaptability and the ability for self-learning. 
-I'm passionate about web development and constantly learning and looking for new ways to improve my skills in this field
+Hi there! Let me tell you a little about myself. What started as a curiosity about technology turned into a passion that now drives my career. Along the way, I’ve explored various areas of IT, from software development to infrastructure monitoring and automation, always seeking ways to optimize systems.  
 
-<h2>💿 Projects</h2>
+Currently, I focus on **infrastructure observability**, **monitoring**, and **incident management**, using tools like **Dynatrace**, **Splunk**, and **SQL databases** to ensure system reliability and performance. I contribute to building monitoring dashboards, analyzing logs, optimizing alerts, and supporting infrastructure migrations. My goal is to deepen my expertise in **DevOps**, **automation**, and **cloud technologies**, and I’m currently working towards **AWS Cloud Practitioner** certification.  
 
-<h4>Here you will find a variety of projects I have been working on, including:</h4>
-<ul>
-<li>Practices carried out during my studies</li>
-<li>Personal projects i have worked on independently</li>
-<li>Courses I have participated in to expand my knowledge</li>
-</ul>
-
-<a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - Kingdom Battle is an exciting game developed with Phaser 3, taking players on an epic adventure in a kingdom full of battles and challenges. It represented the final project of the studies. 
-
-<a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer</b> </a> - This application allows you to play and manage your music library in a simple and customized way. With an intuitive and appealing interface, Music Player offers features such as song search, playlist creation, loop playback, and much more.
-
-<a href="https://github.com/jdgc5/Mockups-and-Webpages"> <b>Mockups and Webpages</b> </a> - This repository contains a storage of my mock-ups and their respective webpages.
-
-<a href="https://github.com/jdgc5/Tienda-Laravel"><b>E-commerce Example Shop</b></a> - This is a simple e-commerce application built with Laravel. The back-end includes user authentication, a CRUD interface for managing products, and a front-end that displays the products using a random template customized to fit the e-commerce needs.
+I've also worked on **API development** with **Python** and **Flask**, **web applications** with **Angular**, and **automation** using **Docker** and **GitLab CI/CD**. This mix of **software** and **operations** experience lets me approach problems from a broader perspective—whether debugging an application, optimizing performance, or improving workflows.
 
 
-<h2>🛠️ Tools and Technology</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c#,sql" />
-
-</div>
-
-<h3>Applications:</h3>
-    <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,postman,git,gitlab,github,wordpress" />
-
-<h3>Frameworks I've used in some projects:</h3>
-    <img src="https://skillicons.dev/icons?i=flask,bootstrap,angular,laravel,electron,dotnet,nodejs,unity" />
-
-<div>
-
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/jdgc5">
-    <img width=450 height=170 align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api?username=jdgc5&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="[https://github.com/jdgc5](https://github.com/jdgc5)">
-    <img align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdgc5&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-<br>
-  <br>
-</div>
 
 
+<h2>💻 Projects</h2> <h4>Here you will find a variety of projects I have worked on:</h4> <ul> <li>Practices from my studies, focusing on foundational technologies</li> <li>Personal projects developed independently to expand my skills</li> <li>Courses I’ve participated in, aimed at enhancing my knowledge in DevOps, cloud, and automation</li> </ul>
+
+<a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - An exciting game developed with Phaser 3, which I created as my final project in my studies.<br>
+
+<a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer</b> </a> - A simple and intuitive application to manage and play music. It offers features such as playlist creation and loop playback.
+
+<a href="https://github.com/jdgc5/Mockups-and-Webpages"> <b>Mockups and Webpages</b> </a> - A repository that holds various mockups and their corresponding webpages I’ve designed.
+
+<a href="https://github.com/jdgc5/Tienda-Laravel"><b>E-commerce Example Shop</b></a> - A simple e-commerce application built with Laravel, featuring user authentication, a CRUD interface for managing products, and a front-end display.
+
+<h2>🛠️ Tools and Technology</h2> <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c#,sql,docker,linux,aws" /> <h3>Applications:</h3> <img src="https://skillicons.dev/icons?i=aws,terraform,docker,vscode,visualstudio,postman,git,gitlab,github,wordpress" /> <h3>Frameworks I've used in some projects:</h3> <img src="https://skillicons.dev/icons?i=flask,bootstrap,angular,laravel,electron,dotnet,nodejs,unity" /> <h2>📊 My Activities</h2> <a href="https://github.com/jdgc5"> <img width=450 height=170 align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api?username=jdgc5&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" /> </a> <a href="https://github.com/jdgc5"> <img align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdgc5&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" /> </a>
