@@ -15,7 +15,7 @@ I've also worked on **API development** with **Python** and **Flask**, **web app
 
 <a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - An exciting game developed with Phaser 3, which I created as my final project in my studies.<br>
 
-<a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer</b> </a> - A simple and intuitive application to manage and play music. It offers features such as playlist creation and loop playback.
+<a href="https://github.com/jdgc5/Game_analytics_Api"> <b>Game_analytics_Api</b> </a> - A simple API that provides endpoints to manage game events, player feedback, player progress, and custom level creation.
 
 <a href="https://github.com/jdgc5/Tienda-Laravel"><b>E-commerce Example Shop</b></a> - A simple e-commerce application built with Laravel, featuring user authentication, a CRUD interface for managing products, and a front-end display.
 
