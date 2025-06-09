@@ -2,9 +2,15 @@
 
 Hi there! Let me tell you a little about myself. What started as a curiosity about technology turned into a passion that now drives my career. Along the way, I’ve explored various areas of IT, from software development to infrastructure monitoring and automation, always seeking ways to optimize systems.  
 
-Currently, I focus on **infrastructure observability**, **monitoring**, and **incident management**, using tools like **Dynatrace**, **Splunk**, and **SQL databases** to ensure system reliability and performance. I contribute to building monitoring dashboards, analyzing logs, optimizing alerts, and supporting infrastructure migrations. My goal is to deepen my expertise in **DevOps**, **automation**, and **cloud technologies**, and I’m currently working towards **Jenkins Certification Engineer (CJE)** Certification after got **AWS Cloud Practitioner** and **Terraform Associate 003** certification.  
+Currently, I focus on **Devops Engineer**,  where I design, provision, and operate multiple **Kubernetes clusters** (development and production) on Linux systems using Amazon EKS. My daily work involves leveraging **Terraform** and **AWS** to implement infrastructure as code, scaling and securing clusters, and managing container images with Docker and Amazon ECR.
 
-I've also worked on **API development** with **Python** and **Flask**, **web applications** with **Angular**, and **automation** using **Docker** and **Github CI/CD**. This mix of **software** and **operations** experience lets me approach problems from a broader perspective—whether debugging an application, optimizing performance, or improving workflows.
+I specialize in automating infrastructure provisioning with **Terraform**, covering AWS resources such as **EC2, VPC, IAM, Lambda, S3, MSK (Kafka), CloudWatch, and Amazon OpenSearch**. I also develop and optimize CI/CD pipelines using **Jenkins** and **ArgoCD**, automating builds, tests, and multi-stage deployments for containerized workloads.
+
+My experience extends to managing robust observability stacks with **Grafana, Prometheus, InfluxDB, and Telegraf**, all integrated with **AWS CloudWatch** to provide end-to-end visibility into infrastructure and application performance. 
+
+Previously, I specialized in infrastructure **observability**, **monitoring**, and **incident management** using tools like **Dynatrace**, **Splunk**, and **SQL databases**. In that role, I built and maintained monitoring dashboards, analyzed logs, optimized alerting, and supported infrastructure migrations. In addition to my infrastructure experience, I have hands-on development skills, having worked on **API** development with **Python (Flask)** and **TypeScript (Node.js)**, as well as web applications with **PHP (Laravel)**.
+
+I hold the **AWS Cloud Practitioner** and **Terraform Associate (003)** certifications, and I am currently preparing for the Jenkins Certified Engineer (CJE) certification.
 
 
 
