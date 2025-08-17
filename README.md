@@ -21,8 +21,8 @@ I hold the **AWS Cloud Practitioner** and **Terraform Associate (003)** certific
 
 <a href="https://github.com/jdgc5/Terraform_Basic_Boilerplate"> <b>Terraform BoilerPlate</b> </a> - It provides a structured way to manage and deploy AWS infrastructure by Terraform. It includes modular configurations to ensure your files are well structured
 
-<a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - An exciting game developed with Phaser 3, which I created as my final project in my studies.<br>
-
 <a href="https://github.com/jdgc5/Game_analytics_Api"> <b>Game_analytics_Api</b> </a> - A simple API that provides endpoints to manage game events, player feedback, player progress, and custom level creation.
+
+<a href="https://play.kingdombattle.es"> <b>Kingdom Battle</b> </a> - An exciting game developed with Phaser 3, which I created as my final project in my studies.<br>
 
 <h2>🛠️ Tools and Technology</h2> <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c#,sql,docker,linux,aws" /> <h3>Applications:</h3> <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,vscode,visualstudio,postman,git,gitlab,github,wordpress" /> <h3>Frameworks I've used in some projects:</h3> <img src="https://skillicons.dev/icons?i=flask,bootstrap,angular,laravel,electron,dotnet,nodejs,express,unity" /> <h2>📊 My Activities</h2> <a href="https://github.com/jdgc5"> <img width=450 height=170 align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api?username=jdgc5&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" /> </a> <a href="https://github.com/jdgc5"> <img align="center" alt="José David Garcia Corzo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdgc5&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" /> </a>
